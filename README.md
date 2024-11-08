@@ -18,5 +18,4 @@
 
   [Link_to_be_displayed](Action_link)
 
-  [link_image](https://imgs.search.brave.com/WFUCWSTA1WQZxQ6Bj0PpSiIS0qx9cb9e-ysxkOY4rTA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvZ29vZ2xlLXMt/bG9nby8xNTAvR29v/Z2xlX0ljb25zLTA5/LTUxMi5wbmc)
-  
+  [google](https://cdn.prod.website-files.com/627a5f477d5ec9079c88f0e2/65a542971ddfeaf8e64ea771_How-old-is-Google.png)
