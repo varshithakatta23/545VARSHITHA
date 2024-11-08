@@ -6,15 +6,12 @@
   1. Traditional Approach
   2. Machine Learning Approach
 - Machine Learning process
+  
   1.Feature Engineeringg
   2.Test data
   3. Train Data
 - Applications of ML
-  ''' PYTHON
-  A=1
-  B=3
-  printf(A+B)
-  '''
+  
 
   [Link_to_be_displayed](Action_link)
 
