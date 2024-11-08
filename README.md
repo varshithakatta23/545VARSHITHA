@@ -6,7 +6,7 @@
   1. Traditional Approach
   2. Machine Learning Approach
 - Machine Learning process
-  1.Feature Engineering
+  1.Feature Engineeringg
   2.Test data
   3. Train Data
 - Applications of ML
