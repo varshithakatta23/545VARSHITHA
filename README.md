@@ -10,3 +10,8 @@
   2.Test data
   3. Train Data
 - Applications of ML
+  ''' PYTHON
+  A=1
+  B=3
+  printf(A+B)
+  '''
