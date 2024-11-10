@@ -5,14 +5,26 @@
 - Traditional Approach VS Machine Learning Approach
   1. Traditional Approach
   2. Machine Learning Approach
-- Machine Learning process
-  1. Model Validation
-  2. Train Data
-  3. Test Data
-  4. Feature Validation
+
+
+- Machine Learning Process
+  1. Historical Data
+  2. Feature Engineering
+  3. Train Data
+  4. ML Algorithm
+  5. Test Data
+  6. Model Validation
+  7. Model 
+  8. New Data 
+  9. Results
  
 - Applications of ML 
-
+ 1. Image Processing
+ 2. Robotics
+ 3. Data Mining
+ 4. Video Games
+ 5. Text Analysis
+ 6. Healthcare
 
 - Machine Learning Techniques
 1. Classification
@@ -32,7 +44,26 @@
   1.Supervised Machine Learning
    1. Regression
    2. Classification 
+   - SUPERVISED MACHINE LEARNING ALGORITHMS
+   1. Naive bayes classifers
+   2. K-Nearest neighbors(KNN) Classifer
+   3. decision tree
+   4. ensemble learning algorithms
+   5. support vector machine 
+   6. regression algoithms 
+
+
   2.Unsupervised Machine Learning  
+   1. Clustering
+   2. Association rules 
+   3. Dimensionality reduction.  
+   - UNSUPERVISED MACHINE LEARNING ALGORITHMS 
+   1. hierarichal clustering 
+   2. k-means clustering 
+   3. principal components analysis
+   4. association rule mining 
+   5. DBSCAN
   3.Reinforcement Machine Learning  
 
   
+
