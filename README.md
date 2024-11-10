@@ -65,9 +65,7 @@
    3. principal components analysis
    4. association rule mining 
    5. DBSCAN
- 
-
-  3.Reinforcement Machine Learning  
+  - 3.Reinforcement Machine Learning  
 
   
 
