@@ -35,7 +35,7 @@
 4. Visualization
 5. Decision Making
 
-- HOW TO ADD IMAGE
+- HOW TO ADD IMAGE  
   [Link_to_be_displayed](Action_link)
 
   [google](https://cdn.prod.website-files.com/627a5f477d5ec9079c88f0e2/65a542971ddfeaf8e64ea771_How-old-is-Google.png)
