@@ -6,12 +6,22 @@
   1. Traditional Approach
   2. Machine Learning Approach
 - Machine Learning process
-  
-  1.Feature Engineeringg
-  2.Test data
-  3. Train Data
-- Applications of ML
-  
+  1. Model Validation
+  2. Train Data
+  3. Test Data
+  4. Feature Validation
+ 
+- Applications of ML 
+
+
+- Machine Learning Techniques
+1. Classification
+2. Categorization
+3. Clustering
+4. Trend Analysis
+5. Anamoly Detection
+4. Visualization
+5. Decision Making
 
   [Link_to_be_displayed](Action_link)
 
