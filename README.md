@@ -18,7 +18,7 @@
   8. New Data 
   9. Results
  
-- Applications of ML 
+- Applications of ML  
  1. Image Processing
  2. Robotics
  3. Data Mining
