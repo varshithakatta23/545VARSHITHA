@@ -44,11 +44,11 @@
 
 - HOW TO ADD TABLES
 
-| TYPES OF DATA TYPES |
-examples 
-|---------| |---------|
-|Integer  | |1,2,3,4,5 |
-|float   | |1.2,2.3,4.5|
+| TYPES OF DATA TYPES |  
+examples   
+|---------| |---------|  
+|Integer  | |1,2,3,4,5 |  
+|float   | |1.2,2.3,4.5|  
 
 
   -MACHINE LEARNING TYPES  
