@@ -42,6 +42,15 @@
 
   [google](https://cdn.prod.website-files.com/627a5f477d5ec9079c88f0e2/65a542971ddfeaf8e64ea771_How-old-is-Google.png)
 
+- HOW TO ADD TABLES
+
+| TYPES OF DATA TYPES |
+examples 
+|---------| |---------|
+|Integer  | |1,2,3,4,5 |
+|float   | |1.2,2.3,4.5|
+
+
   -MACHINE LEARNING TYPES  
   1.Supervised Machine Learning
    1. Regression
