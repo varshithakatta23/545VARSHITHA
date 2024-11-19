@@ -47,7 +47,8 @@
 
 
 
-  -MACHINE LEARNING TYPES  
+  - MACHINE LEARNING TYPES
+    ![ML-TYPES](https://cdn.prod.website-files.com/614c82ed388d53640613982e/63ef65a6f796e384c99f3b03_types%20of%20machine%20learning.jpg)
   1.Supervised Machine Learning
    1. Regression
    2. Classification 
