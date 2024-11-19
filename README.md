@@ -6,6 +6,11 @@
   1. Traditional Approach
   2. Machine Learning Approach
 
+| hEAD 1 | HEAD2 | HEAD3 |
+| ------ | ----- | ----- |
+| First | Second Column | Third Column |
+| First | Second Column | Third Column |
+| First | Second Column | Third Column |
 
 - Machine Learning Process
   1. Historical Data
